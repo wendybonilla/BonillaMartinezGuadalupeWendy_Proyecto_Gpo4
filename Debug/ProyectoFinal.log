@@ -1,0 +1,13 @@
+﻿  Main_prac11.cpp
+C:\Users\wendy\source\repos\ProyectoFinal\ProyectoFinal\Main_prac11.cpp(492,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\wendy\source\repos\ProyectoFinal\ProyectoFinal\Main_prac11.cpp(796,15): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\wendy\source\repos\ProyectoFinal\ProyectoFinal\Main_prac11.cpp(803,15): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\wendy\source\repos\ProyectoFinal\ProyectoFinal\Main_prac11.cpp(809,15): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\wendy\source\repos\ProyectoFinal\ProyectoFinal\Main_prac11.cpp(815,15): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\wendy\source\repos\ProyectoFinal\ProyectoFinal\Main_prac11.cpp(965,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\wendy\source\repos\ProyectoFinal\ProyectoFinal\Main_prac11.cpp(966,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\wendy\source\repos\ProyectoFinal\ProyectoFinal\Main_prac11.cpp(970,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\wendy\source\repos\ProyectoFinal\ProyectoFinal\Main_prac11.cpp(971,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\wendy\source\repos\ProyectoFinal\ProyectoFinal\Main_prac11.cpp(973,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\wendy\source\repos\ProyectoFinal\ProyectoFinal\Main_prac11.cpp(974,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  ProyectoFinal.vcxproj -> C:\Users\wendy\source\repos\ProyectoFinal\Debug\ProyectoFinal.exe
